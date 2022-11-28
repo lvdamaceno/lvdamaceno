@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on beginners-friendly projects
-- 📫 How to reach me: lvdamaceno@gmail.com or @VDamaceno at Telegram
+- 📫 How to reach me: lvdamaceno@gmail.com or [@lvdamaceno](https://t.me/lvdamaceno) at Telegram
 
 [![@lvdamaceno's Holopin board](https://holopin.me/lvdamaceno)](https://holopin.io/@lvdamaceno)
 
