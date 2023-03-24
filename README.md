@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning front-end development, see [here](https://lvdamaceno.github.io/boracodar/) my recent projects.
 - 💞️ I’m looking to collaborate on beginners-friendly projects
 - 📫 How to reach me: lvdamaceno@gmail.com or [@lvdamaceno](https://t.me/lvdamaceno) at Telegram
 
